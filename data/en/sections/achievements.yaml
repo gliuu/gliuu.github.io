@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Presidential Scholar
+  image: /images/sections/achievements/floral_pattern4.png
+  summary: Received merit-based scholarship to Rutgers University
+- title: Prize Winner
+  image: /images/sections/achievements/floral_pattern6.jpeg
+  summary: GRAPES trivia game was 1st place winner of NIH Hoope for Sickle Cell Disease Challenge
+- title: Dean's List
+  image: /images/sections/achievements/floral_pattern1.jpeg
+  summary: Dean's List Fall 2020, Spring 2021
+- title: National Merit Scholarship Finalist
+  image: /images/sections/achievements/floral_pattern2.jpeg
+  summary: Finalist for National Merit Scholarship

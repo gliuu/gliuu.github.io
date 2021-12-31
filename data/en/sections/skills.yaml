@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Java
+  logo: "images/sections/skills/java.png"
+  summary: "Capable of working with data structures like graphs, lists, trees, and arrays"
+  #url: "https://kubernetes.io/"
+
+- name: R
+  logo: "/images/sections/skills/r.png"
+  summary: "Capable of designing and running simulations, data cleaning, and visualizing data. Worked with popular machine learning packages like xgboost and randomforest"
+  #url: "https://golang.org/"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Worked with PyGame, NumPy, scikit-learn"
+
+- name: Mathematica
+  logo: "images/sections/skills/mathematica.png"
+  summary: "Basic functions and graphing in Mathematica"
+
+- name: SQL
+  logo: "images/sections/skills/sql.png" 
+  summary: "Basic knowledge of SQL functions and usage"
+
+- name: Figma
+  logo: "images/sections/skills/figma.png"
+  summary: "Helped create GRAPES, an award-winning trivia game on Sickle Cell Disease, using Figma"

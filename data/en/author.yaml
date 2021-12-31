@@ -1,0 +1,16 @@
+# some information about you
+name: "Gloria Liu"
+nickname: "Gloria"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/gloria.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "gloria.tao.liu123@gmail.com"
+  phone: "7328046531"
+
+# some summary about what you do
+summary:
+  - I am an aspiring software engineer
+  - I am a math and CS major at Rutgers University
+  - I like problem solving 
