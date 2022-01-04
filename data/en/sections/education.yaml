@@ -32,15 +32,15 @@ degrees:
     - name: Math Theory Probability
      # achieved: 4
      # outOf: 4
+  publications: #(optional)
+  - title: GRAPES Trivia Game Increases Sickle Cell Disease Knowledge in Patients and Providers and Mitigates Health Biases
+    url: https://doi.org/10.1182/blood-2021-144635
   extracurricularActivities: #(optional)
   - Piccolo player in Rutgers Marching Band
   - Honors College Ally - mentor for first-year students
   - Honors College Diversity Peer Educator
   - Peer tutor for Intro. CS course
   - Chinese Student Organization member
-  publications: #(optional)
-  - title: GRAPES Trivia Game Increases Sickle Cell Disease Knowledge in Patients and Providers and Mitigates Health Biases
-   url: "https://doi.org/10.1182/blood-2021-144635"
 - name: High School Diploma
   icon: fa-university
   timeframe: 2016-2020
