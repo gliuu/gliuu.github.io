@@ -39,7 +39,7 @@ degrees:
   - Peer tutor for Intro. CS course
   - Chinese Student Organization member
   publications: #(optional)
-  - title: "GRAPES: Trivia Game Increases Sickle Cell Disease Knowledge in Patients and Providers and Mitigates Health Biases"
+  - title: GRAPES Trivia Game Increases Sickle Cell Disease Knowledge in Patients and Providers and Mitigates Health Biases
    url: "https://doi.org/10.1182/blood-2021-144635"
 - name: High School Diploma
   icon: fa-university
