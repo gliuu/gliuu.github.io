@@ -6,11 +6,11 @@ greeting: "Hi! I am"
 image: "images/author/gloria.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: " gloria.tao.liu123@gmail.com"
-  phone: " 7328046531"
+  email: "gloria.tao.liu123@gmail.com"
+  phone: "7328046531"
 
 # some summary about what you do
 summary:
   - I am an aspiring software engineer
   - I am a math and CS major at Rutgers University
-  - I like problem solving 
+  - I like problem solving

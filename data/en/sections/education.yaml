@@ -38,9 +38,9 @@ degrees:
   - Honors College Diversity Peer Educator
   - Peer tutor for Intro. CS course
   - Chinese Student Organization member
-  #publications: #(optional)
-  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-   # url: "#"
+  publications: #(optional)
+  - title: "GRAPES: Trivia Game Increases Sickle Cell Disease Knowledge in Patients and Providers and Mitigates Health Biases"
+   url: "https://doi.org/10.1182/blood-2021-144635"
 - name: High School Diploma
   icon: fa-university
   timeframe: 2016-2020
